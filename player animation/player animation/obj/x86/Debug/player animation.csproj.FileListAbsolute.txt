@@ -1,0 +1,7 @@
+c:\users\savan\documents\visual studio 2013\Projects\player animation\player animation\player animation\bin\x86\Debug\Content\planessheet.xnb
+c:\users\savan\documents\visual studio 2013\Projects\player animation\player animation\player animation\bin\x86\Debug\player animation.exe
+c:\users\savan\documents\visual studio 2013\Projects\player animation\player animation\player animation\bin\x86\Debug\player animation.pdb
+c:\users\savan\documents\visual studio 2013\Projects\player animation\player animation\player animation\obj\x86\Debug\player animation.csprojResolveAssemblyReference.cache
+c:\users\savan\documents\visual studio 2013\Projects\player animation\player animation\player animation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\savan\documents\visual studio 2013\Projects\player animation\player animation\player animation\obj\x86\Debug\player animation.exe
+c:\users\savan\documents\visual studio 2013\Projects\player animation\player animation\player animation\obj\x86\Debug\player animation.pdb
